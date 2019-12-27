@@ -734,7 +734,7 @@
 									<img src="images/bots1.jpg" class="d-block w-100" alt="auto slide 2" width="1125" height="530">
 								  </div>
 								  <div class="carousel-item">
-									<img src="images/adv_topics.jpg" class="d-block w-100" alt="auto slide 3" width="1125" height="530">
+									<img src="images/topics.jpg" class="d-block w-100" alt="auto slide 3" width="1125" height="530">
 								  </div>
 								</div>
 								<a class="carousel-control-prev" href="#carouselExampleIndicators9" role="button" data-slide="prev">
