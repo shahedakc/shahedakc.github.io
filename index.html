@@ -724,7 +724,7 @@
 								<ol class="carousel-indicators">
 								  <li data-target="#carouselExampleIndicators9" data-slide-to="0" class="active"></li>
 								  <li data-target="#carouselExampleIndicators9" data-slide-to="1"></li>
-								  <li data-target="#carouselExampleIndicators9" data-slide-to="2"></li>
+								  
 								</ol>
 								<div class="carousel-inner">
 								  <div class="carousel-item active">
@@ -733,10 +733,7 @@
 								  <div class="carousel-item">
 									<img src="images/bots1.jpg" class="d-block w-100" alt="auto slide 2" width="1125" height="530">
 								  </div>
-								  <div class="carousel-item">
-									<img src="images/topics.jpg" class="d-block w-100" alt="auto slide 3" width="1125" height="530">
 								  </div>
-								</div>
 								<a class="carousel-control-prev" href="#carouselExampleIndicators9" role="button" data-slide="prev">
 								  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
 								  <span class="sr-only">Previous</span>
